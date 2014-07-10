@@ -1,0 +1,7 @@
+---
+title: "Coursera"
+author: "SarunasSliesoraitis"
+date: "07/10/2014"
+output: html_document
+---
+##This is a markdown file
